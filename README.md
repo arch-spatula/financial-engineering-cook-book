@@ -49,7 +49,7 @@ pip3 freeze > requirements.txt
 중간에 라이브러리리를 추가하면 이 명령을 합니다.
 
 ```sh
-pip3 install -r requirements.txt
+deactivate
 ```
 
 ---
